@@ -27,3 +27,5 @@ The rendered output looks like this:
 I love supporting the EFF.
 This is the Markdown Guide.
 See the section on code.
+
+Alteração pelo GIT WEB
